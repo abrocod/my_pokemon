@@ -1,2 +1,2 @@
-# compass_pokemon
-Solution for compass's pokemon challenge
+# pokemon challenge
+Solution for pokemon challenge
